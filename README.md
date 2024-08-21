@@ -308,10 +308,9 @@ Forking creates a copy of the repository on GitHub, allowing you to work on it i
 Cloning creates a local copy of a repository on your machine. This allows you to work offline and make changes, but if you do not have permission to push changes to the original repository, you cannot directly update it. Cloning is typically used when you have collaborator access to the repository and intend to push changes back to it.
 
 Key Differences
-Feature	      Forking	                                         Cloning
-Location	    Creates a copy on GitHub	                      Creates a local copy on your machine
-Permissions	  Allows changes without affecting the original	  Requires permission to push changes
-Use Case	    Contributing to projects you don’t own	        Working on projects you have access to
+Forking Creates a copy on GitHub while Cloning Creates a local copy on your machine
+Forking Allows changes without affecting the original while Cloning Requires permission to push changes
+Forking Allows Contributing to projects you don’t own while Cloning Allows Working on projects you have access to
 
 Scenarios Where Forking is Useful
 Contributing to Open-Source Projects: If you want to contribute to an open-source project but lack write access, forking allows you to create a copy, make changes, and propose those changes via a pull request.
